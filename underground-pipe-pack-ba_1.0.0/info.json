@@ -1,0 +1,13 @@
+{
+	"name": "underground-pipe-pack-ba",
+	"version": "1.0.0",
+	"title": "Advanced Fluid Handling for Bob's and Angel's Patch",
+	"author": "BlakeOblivion",
+	"factorio_version": "1.1",
+	"description": "Change t2 advanced pipe intermidiaries to use lead instead of iron; changes t3 intermediaries to use cobalt steel instead of steel.\nAlso has a mod setting to double number of underground pipe segments produced per recipe.",
+	"dependencies": ["underground-pipe-pack", "bobplates"]
+
+
+
+
+}
